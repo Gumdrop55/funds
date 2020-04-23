@@ -1,6 +1,5 @@
-# funds
-Learning javascript baby steps
-// Budget controller
+# funds Learning javascript baby steps
+
 var budgetController = (function() {
    
     var Expense = function(id, description, value){
